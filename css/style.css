@@ -1,0 +1,173 @@
+.header{
+    background-color: #edf1ff;
+}
+
+.e-shopper {
+    color: #d19c97;
+
+}
+
+.e-shopper span {
+    color: black;
+}
+.searchinput{
+    width:600px;
+}
+.dropdownlink{
+    width: 350px;
+    height: 50px;;
+    background-color: #d19c97 !important;
+}
+.dropdownlinkul{
+    width: 350px;
+}
+
+hr {
+    margin: 0 !important;
+}
+.carousel-inner{
+    height: 350px;;
+}
+.carousel-caption{
+    top:20% !important;
+
+}
+.check{
+    font-size: 30px;
+    color:#d19c97
+}
+.truck{
+    font-size: 30px;
+    color:#d19c97
+}
+.return{
+    font-size: 30px;
+    color:#d19c97
+}
+.support{
+    font-size: 30px;
+    color:#d19c97
+}
+.checkdiv{
+    width: 350px;
+    height: 60px;;
+}
+.truckdiv{
+    width: 350px;
+    height: 60px;;
+}
+.returndiv{
+    width: 350px;
+    height: 60px;;
+}
+.supportdiv{
+    width: 350px;
+    height: 60px;;
+}
+.man1jpg{
+    /* width:400px;
+    height: 300px; */
+}
+.woman1jpg{
+    /* width:400px; */
+}
+.baby1jpg{
+    /* width:400px; */
+}
+.camera1jpg{
+    /* width:400px; */
+}.bag1jpg{
+    /* width:400px; */
+}.shoes1jpg{
+    /* width:400px; */
+}
+.offer1{
+    background-color: #edf1ff;
+}
+.offer2{
+    background-color: #edf1ff;
+}
+.leftgirl{
+    height: 200px;;
+}
+.offertext1{
+    color:#d1a2ab
+}
+.rightgirl{
+    height: 200px;;
+}
+.product-1{
+    height:300px;
+}
+.span-text{
+    text-decoration: line-through;
+    color:grey;
+    
+}
+.fa-eye{
+color: #d19c97;
+}
+.fa-cart-shopping{
+color: #d19c97;
+}
+.updatedcontainer{
+    background-color: #edf1ff;
+    /* display: flex;
+    justify-content: center; */
+}
+.fa-location-dot{
+    color:#d19c97
+}
+.fa-envelope{
+    color: #d19c97;
+}
+.fa-phone{
+    color: #d19c97;
+}
+.fa-angle-right{
+    font-size: 12px;
+    color: black;
+}
+.footerbutton{
+    width: 307px;
+    background-color: #d19c97 !important;
+}
+.footer{
+    background-color: #edf1ff;
+}
+.end{
+    border-top: 6px solid white;
+}
+.wagontext{
+    color: #d19c97;
+}
+.text-reset{
+    text-decoration: none;
+}
+.fa-heart{
+    color: #d19c97;
+}
+.subscribebtn{
+    background-color: #d19c97 !important;
+}
+.cart-button {
+    background: none;
+    border: none;
+    cursor: pointer; /* add cursor:pointer to make the button clickable */
+    padding: 0; /* add padding:0 to remove any extra space around the button */
+  }
+  .searchbtn{
+    background-color: #d19c97 !important;
+  }
+  .trandytext::after{
+    content: "";
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 10px;
+    bottom: 0;
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    
+  }
